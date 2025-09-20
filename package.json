@@ -1,7 +1,7 @@
 {
   "name": "my-ip-api",
   "version": "1.0.0",
-  "description": "IP to Location API",
+  "description": "IP to Location API with full country and region names",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,6 +10,6 @@
   },
   "dependencies": {
     "i18n-iso-countries": "^7.11.0",
-    "iso-3166-2": "^3.0.0"
+    "iso-3166-2": "^1.0.0"
   }
 }
