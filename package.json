@@ -1,8 +1,6 @@
 {
   "name": "my-ip-api",
   "version": "1.0.0",
-  "description": "IP to Location API with full country & region names",
-  "main": "index.js",
   "type": "module",
   "scripts": {
     "dev": "vercel dev",
