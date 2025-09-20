@@ -1,0 +1,15 @@
+{
+  "name": "my-ip-api",
+  "version": "1.0.0",
+  "description": "IP to Location API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "i18n-iso-countries": "^7.11.0",
+    "iso-3166-2": "^3.0.0"
+  }
+}
